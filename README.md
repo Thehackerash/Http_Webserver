@@ -1,13 +1,9 @@
-[![progress-banner](https://backend.codecrafters.io/progress/http-server/36e4e51e-7c94-4db9-a627-2cb4211a5dc4)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+# Http webserver from scratch
+I have build a HTTP/1.1 server that is capable of serving multiple clients, with functionality of uploading and retrieving any file from the server.
 
-This is a starting point for Python solutions to the
-["Build Your Own HTTP server" Challenge](https://app.codecrafters.io/courses/http-server/overview).
-
-[HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) is the
-protocol that powers the web. In this challenge, you'll build a HTTP/1.1 server
-that is capable of serving multiple clients.
+# technologies used
+socket, sys, threading and argparse libraries in python. 
 
 Along the way you'll learn about TCP servers,
 [HTTP request syntax](https://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html),
 and more.
-
